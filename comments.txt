@@ -1,4 +1,4 @@
-Added game score when all rolls are gutter balls
+ssssAdded game score when all rolls are gutter balls
 	- roll method should have the formula pins+score in this test/commit itself which is added in next commit
 - After "Added game score when two pins are down in each roll" a refactoring was possible; to extract BowlingGame initialisation to init method in test class
 "Calculated game score when there is one spare"

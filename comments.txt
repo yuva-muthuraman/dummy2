@@ -1,0 +1,9 @@
+Added game score when all rolls are gutter balls
+	- roll method should have the formula pins+score in this test/commit itself which is added in next commit
+- After "Added game score when two pins are down in each roll" a refactoring was possible; to extract BowlingGame initialisation to init method in test class
+"Calculated game score when there is one spare"
+	- i+=2 can be outside if..else in calculateScore method
+"Refactoring:Added frameIndex and check for spare"
+ - comment can be more specific -> something like "renamed local variable from 'i' to 'frameIndex' and extracted spare rolling logic as new method"
+- a test with a game of strike, spare and normal rolls can be added
+ 

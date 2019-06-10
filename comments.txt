@@ -6,4 +6,4 @@ Added game score when all rolls are gutter balls
 "Refactoring:Added frameIndex and check for spare"
  - comment can be more specific -> something like "renamed local variable from 'i' to 'frameIndex' and extracted spare rolling logic as new method"
 - a test with a game of strike, spare and normal rolls can be added
- 
+ ---
